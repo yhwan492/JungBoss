@@ -14,3 +14,9 @@ npm install
 How to run - localhost
 npm run dev
 
+Tech Stack:
+Frontend - Vue
+Backend - Node.js(Express.js ...)
+Config - Docker
+Task management - Trello - JungBoss https://trello.com/w/jungboss
+Github repository - https://github.com/yhwan492/JungBoss
