@@ -1,0 +1,31 @@
+2023/10/25 Meeting
+
+Briefly going overall structure of the project
+Frontend - Vue
+Backend - Node.js(Express.js ...)
+Config - Docker
+Task management - Trello - JungBoss https://trello.com/w/jungboss
+
+1. Github branch management
+- Make branch per task 
+- Merge after implement is done
+- Delete the branch
+
+2. Trello Task Distribution
+- Create tasks by him/herself
+- Control tasks only by Trello
+- If encounters any issue, then change management method
+- Created Trello workspace and board for phase 1 (https://trello.com/w/jungboss)
+
+3. JsDoc
+- Use JsDoc to each function you Make
+- Must contain, expected arguments and return value in implement
+- Must contain brief information in it
+
+4. ReadMe
+- Document for developers
+- Must have instruction how to install and run it
+- Add page info - how to deal with the issue, and how to update the components per page
+- Information per development phase
+- Add Contributor
+- Add instructions for developers
