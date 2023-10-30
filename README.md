@@ -11,6 +11,7 @@ Yonghwan Kim (kyhwan492@gmail.com)<br>
 Jinseok Oh (jinss1145@gmail.com)<br>
 Helen (Jeonghyo) Mah (helenmah20@gmail.com)<br>
 Alicia Yerin Kim (aliciayerinkim@gmail.com)<br>
+Jenna Jung (jenna.jung03@gmail.com)<br>
 
 How to install
 npm install
