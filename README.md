@@ -8,11 +8,15 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Contributors: Yonghwan Kim (kyhwan492@gmail.com)
 
-How to install 
+How to install
+''' 
 npm install 
+'''
 
 How to run - localhost
+'''
 npm run dev
+'''
 
 Tech Stack:
 Frontend - Vue
