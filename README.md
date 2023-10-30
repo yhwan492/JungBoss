@@ -9,6 +9,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 Contributors:<br>
 Yonghwan Kim (kyhwan492@gmail.com)<br>
 Jinseok Oh (jinss1145@gmail.com)<br>
+Helen (Jeonghyo) Mah (helenmah20@gmail.com)<br>
 
 How to install
 npm install
