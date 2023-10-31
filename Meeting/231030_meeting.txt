@@ -1,0 +1,34 @@
+Code Format: Prettier
+
+Routing
+/home
+  | - /information/
+      - ../school - A&M CSCE specific
+      - ../job_posting
+      - ../interview_resume
+      - ../online_assessment
+      - ../international
+  | - /community
+      - ../for phase 2+
+
+school section
+- Degree Planning
+- CS Elective
+- How to prepare for class registration
+- How to Force Request
+- Grade Distribution & Rate My Prof
+- How to graduate early
+- How to tranfer to CSCE & ETAM
+- How to CS minor
+- Alternative CSCE - computing, technology mangement, data engineering
+- Diff between CS vs CE
+- Q drop
+- Add/Drop period
+- Study abroad
+- Transfer Credit
+- Re-admission when returning to A&M - change of major, how to do so
+
+Google Docs: https://docs.google.com/document/d/1j7qyNUGuB0p2HAee6DE-BsbEUrbybStnDwDGnzyrr6A/edit?usp=sharing
+
+interview_resume
+- Resume: example
